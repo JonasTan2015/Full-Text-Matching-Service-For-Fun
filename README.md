@@ -11,3 +11,10 @@ MongoDB for persistent storage. Ran when initialized only
 
 ## How it works?
 ![Alt text](https://qph.fs.quoracdn.net/main-qimg-64eb40af5510bc3e201726674197b3dc.webp)
+
+## How to run?
+```
+mvn spring-boot:run
+```
+By default, it runs on port 8080.
+Open your browser, visit localhost:8080
