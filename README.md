@@ -14,6 +14,7 @@ MongoDB for persistent storage. Ran when initialized only
 
 ## How to run?
 ```
+mogod  
 mvn spring-boot:run
 ```
 By default, it runs on port 8080.
