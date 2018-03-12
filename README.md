@@ -6,6 +6,7 @@ This is a web service for full text matching, implemented with inverted index.
 ```
 Spring Boot
 Jquery
+MongoDB for persistent storage. Ran when initialized only
 ```
 
 ## How it works?
